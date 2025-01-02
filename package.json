@@ -20,9 +20,9 @@
   ],
   "author": "3codershub",
   "license": "MIT",
-  "dependencies": {
-    "react": "^17.0.0",
-    "react-native": "^0.64.0"
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.64.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",

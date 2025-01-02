@@ -1,6 +1,6 @@
 {
   "name": "react-native-toast-master",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable toast component for React Native with animations.",
   "main": "dist/Toast.js",
   "types": "dist/Toast.d.ts",

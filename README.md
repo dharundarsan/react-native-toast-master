@@ -1,4 +1,4 @@
-# React Native Toast Package
+# React Native Toast Master
 
 A customizable toast component for React Native with TypeScript support.
 

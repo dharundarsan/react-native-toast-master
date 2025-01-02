@@ -1,0 +1,36 @@
+{
+  "name": "react-native-toast-master",
+  "version": "1.0.0",
+  "description": "A customizable toast component for React Native with animations.",
+  "main": "dist/Toast.js",
+  "types": "dist/Toast.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/react-native-toast-package.git"
+  },
+  "keywords": [
+    "react-native",
+    "toast",
+    "notification",
+    "animated-toast"
+  ],
+  "author": "3codershub",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-native": "^0.64.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-native": "^0.64.38",
+    "typescript": "^4.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
+}
